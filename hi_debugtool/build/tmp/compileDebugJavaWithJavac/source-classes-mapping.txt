@@ -1,0 +1,2 @@
+org/devio/as/proj/debug/BuildConfig.java
+ org.devio.as.proj.debug.BuildConfig

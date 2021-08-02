@@ -1,0 +1,9 @@
+R_DEF: Internal format may change without notice
+local
+drawable shape_hi_debug_tool
+drawable shape_hi_debug_tool_divider
+id item_desc
+id item_title
+id recycler_view
+layout hi_debug_tool
+layout hi_debug_tool_item
